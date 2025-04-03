@@ -1,5 +1,5 @@
 "
-test edit
+Basic tools and tool registry
 "
 Class {
 	#name : 'ManifestToolBase',
